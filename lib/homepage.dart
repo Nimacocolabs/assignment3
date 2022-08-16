@@ -26,6 +26,8 @@ class _HomepageState extends State<Homepage> {
                         ElevatedButton(
                   style: ElevatedButton.styleFrom(
                     onPrimary: Colors.white,
+
+
                       primary: Color(0xff900C3F),fixedSize: Size(200, 50),
                     shape: RoundedRectangleBorder(borderRadius: BorderRadius.all(Radius.circular(20))),),
                             onPressed: (){

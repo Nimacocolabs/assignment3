@@ -20,6 +20,8 @@ class _FirstpageState extends State<Firstpage> {
       ),
       body: SafeArea(
         child: Center(
+
+
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.center,

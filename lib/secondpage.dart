@@ -23,12 +23,12 @@ import 'package:flutter/material.dart';
          child: Center(
            child: Column(
              children: [
-
-
                SizedBox(height: 20,),
                Center(child: Text("COURSES",style:TextStyle(fontSize: 30),)),
                SizedBox(height: 20,),
                Expanded(
+
+
                  child: GridView.builder(gridDelegate:
            SliverGridDelegateWithFixedCrossAxisCount(
                crossAxisCount: 2,
